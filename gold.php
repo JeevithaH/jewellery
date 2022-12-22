@@ -43,7 +43,7 @@
                             </div>
                             <div class="col-4">
                                 <a class="btn btn-primary text-white 
-                            font-weight-border float-right" href="#">BUY</a>
+                            font-weight-border float-right" href="coursedetails.php">BUY</a>
                             </div>
                         </div>
                     </div>
